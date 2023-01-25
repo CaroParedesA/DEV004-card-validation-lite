@@ -127,7 +127,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 - [ ] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
 
 ## 3. Consideraciones generales
-* Este proyecto se debe trajar de manera **individual**. 
+* Este proyecto se debe trabajar de manera **individual**. 
 * Tiempo estimado para completar las 2 partes: **1-3 _sprints_** (semanas). 
 * **Tiempo estimado** para completar esta 1era parte: no más de **1 _sprint_** (semanas).👀
 
@@ -147,7 +147,7 @@ Estos son los requisitos que debe cumplir tu trabajo para que consideremos que h
 * Permitir insertar el número de la tarjeta que se quiere validar (texto) en un campo de texto vacío. 
 * Evitar que puedan escribir caracteres que no sean numéricos (dígitos 0-9).  
 * Impedir que se intente validar si es que el campo está vacío (no se ha escrito nada).  
-* Comunicar a la usuaria si se trata una taerjeta válida o no.
+* Comunicar a la usuaria si se trata de una tarjeta válida o no.
   
 Tan pronto consideres que tu trabajo cumpla con todos estos criterios, puedes comenzar a trabajar en la segunda parte. 
 
